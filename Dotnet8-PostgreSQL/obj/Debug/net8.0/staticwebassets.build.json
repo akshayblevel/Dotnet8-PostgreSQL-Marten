@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CN63W3BUB37CNkJwhL+i5XnRw8ZjBIIhylQOPw4v+0A=",
+  "Source": "Dotnet8-PostgreSQL",
+  "BasePath": "_content/Dotnet8-PostgreSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

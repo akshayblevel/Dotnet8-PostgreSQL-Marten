@@ -1,0 +1,6 @@
+@Dotnet8_PostgreSQL_HostAddress = http://localhost:5291
+
+GET {{Dotnet8_PostgreSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
